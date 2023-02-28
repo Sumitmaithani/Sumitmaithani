@@ -5,13 +5,20 @@
 - 📫 How to reach me via social links.
 
 ### About 
- I value a business or brand for which I'm creating websites with responsive and elegant JavaScript. Looking for an opportunity to grow my frontend development skills in an innovative environment.
- 
- I'm a front-end developer undergrad student currently doing my engineering from HNBGU (central university) from Uttarakhand, India. I love to create simple yet beautiful websites with great user experience.
+Yo, it's Sumit and I'm in the game
+Front-end development is my claim to fame
+With React JS and React Native, I'm on the rise
+Building interfaces that'll leave you mesmerized
 
-I'm interested in the whole frontend stack Like trying new things and building great projects.
+Got skills on the web and skills on mobile too
+Creating apps that'll make you say "woo!"
+My code is clean and my designs are tight
+I work hard day and night to make it all right
 
-I believe everything is an Art when you put your consciousness in it. You can connect with me via social links.
+Collaboration is key, I love to team up
+Creating products that'll make you wanna scream "what's up!"
+My passion is UX, making it all feel right
+So come and work with me, we'll make some apps that'll take flight!
 
 ### SKILLS
 <p>
