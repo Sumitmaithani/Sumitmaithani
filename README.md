@@ -3,10 +3,9 @@
 - 🌱 I’m currently learning React Native
 - 💞️ I’m looking to collaborate on Frontend projects
 - 📫 How to reach me via social links.
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/maithanisumit1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="maithanisumit1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sumit-maithani-103119228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sumit-maithani-103119228/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sumit-maithani-103119228/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sumit-maithani-103119228/" height="30" width="40" /></a>
+<a href="https://twitter.com/maithanisumit1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="maithanisumit1" height="30" width="40" /></a>
 </p>
 
 ### About 
