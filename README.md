@@ -5,7 +5,7 @@
 - 📫 How to reach me via social links.
 
 ### About 
-Yo, it's Sumit and I'm in the game
+Yo, it's Sumit and I'm in the game \n
 Front-end development is my claim to fame
 With React JS and React Native, I'm on the rise
 Building interfaces that'll leave you mesmerized
