@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sumitmaithani
+- 👋 Hi, I’m @Sumitmaithani from India
 - 👀 I’m interested in Fronted Development
 - 🌱 I’m currently learning React Native
 - 💞️ I’m looking to collaborate on Frontend projects
