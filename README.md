@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sumitmaithani from India
 - 👀 I’m interested in Fronted Development
-- 🌱 I’m currently learning React Native
+- 🌱 I’m currently learning Docker
 - 💞️ I’m looking to collaborate on Frontend projects
 - 📫 How to reach me via social links.
 <p align="left">
