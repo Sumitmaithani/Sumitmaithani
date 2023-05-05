@@ -8,23 +8,6 @@
 <a href="https://twitter.com/maithanisumit1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="maithanisumit1" height="30" width="40" /></a>
 </p>
 
-### About 
-
-👋 Yo, it's Sumit and I'm in the game<br>
-💻 Front-end development is my claim to fame<br>
-⚛️ With React JS and React Native, I'm on the rise<br>
-🌟 Building interfaces that'll leave you mesmerized<br>
-
-📱 Got skills on the web and skills on mobile too<br>
-🚀 Creating apps that'll make you say "woo!"<br>
-💯 My code is clean and my designs are tight<br>
-👨‍💻 I work hard day and night to make it all right<br>
-
-👥 Collaboration is key, I love to team up<br>
-👨‍👩‍👧‍👦 Creating products that'll make you wanna scream "what's up!"<br>
-💖 My passion is UX, making it all feel right<br>
-🎉 So come and work with me, we'll make some apps that'll take flight!<br>
-
 ### <h3 align="left">Languages and Tools:</h3>
 
 <div align="left">
