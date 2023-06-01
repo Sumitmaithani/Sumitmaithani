@@ -2,7 +2,8 @@
 
 I am Sumit Maithani, Former SDE Daffodil Health and Open Source Contributor. I am a Full Stack Developer with experience building open source projects. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sumit-maithani-103119228/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/maithanisumit1) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sumit-maithani-103119228/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/maithanisumit1)
+[![Gmail Badge](https://img.shields.io/badge/-sumitmaithani824@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sumitmaithani824@gmail.com)](mailto:sumitmaithani824@gmail.com)
 
 ## ⚡ Technologies
 
